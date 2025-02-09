@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download Here](https://nguu0123.github.io/files/Anh-Dung_Nguyeb_CV.pdf)
+[Download Here](https://nguu0123.github.io/files/Anh-Dung_Nguyen_CV.pdf)
 
 ## Education **Aalto University**
 
