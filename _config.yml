@@ -13,7 +13,7 @@ title: "Anh-Dung Nguyen"
 title_separator: "-"
 name: &name "Anh-Dung Nguyen"
 description: &description "MSC Computer Science/Research Asisstant at Aalto university"
-url: https://nguu0123.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://nguu0123.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "nguu0123/nguu0123.github.io"
 
